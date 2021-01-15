@@ -1,7 +1,6 @@
 ---
 layout: article
-titles:
-  en      : &EN       About
+titles: About
 key: page-about
 ---
 
