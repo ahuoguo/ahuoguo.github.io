@@ -20,9 +20,8 @@ highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tom
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : ahuoguo
-description: > # this means to ignore newlines until "Language & timezone"
-   Monad只不过是自函子范畴上的幺半群，有什么问题吗？（大雾）
-
+description: > # this means to ignore newlines until "nav_lists:"
+  Monad只不过是自函子范畴上的幺半群，有什么问题吗？（大雾）
 
 ## => Language and Timezone
 ##############################
