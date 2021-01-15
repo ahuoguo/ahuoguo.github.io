@@ -1,6 +1,8 @@
 ---
 layout: article
-titles: About
+title: About
+header: About
+
 key: page-about
 ---
 
