@@ -6,8 +6,7 @@ header: About
 key: page-about
 ---
 
-cs学子 会不定期的囤一些想看的东西  
-最近在Haskell当中受折磨
+cs(philo?)学子 会不定期地bb一些话或者囤一些想看的东西。
 
 ### Contact me
 
