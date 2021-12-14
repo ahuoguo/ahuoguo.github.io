@@ -32,3 +32,4 @@ CS自学指南的[链接](https://pkuflyingpig.github.io/pku-cs-self-learning/%E
 ### UCB CS61A Structure and Interpretation of Computer Programs
 
 CS自学指南的[链接](https://pkuflyingpig.github.io/pku-cs-self-learning/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS61A/)  
+（也该好好学学Python了）
