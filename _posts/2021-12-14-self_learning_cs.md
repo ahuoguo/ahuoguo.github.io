@@ -1,9 +1,9 @@
 ---
-title: cs自学
+title: CS自学
 tags: CS
 ---
 
-### 来监督监督自己学cs
+### 监督监督自己学CS
 
 <!--more-->
 
