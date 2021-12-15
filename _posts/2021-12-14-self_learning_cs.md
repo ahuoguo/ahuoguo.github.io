@@ -7,13 +7,13 @@ tags: CS
 
 <!--more-->
 
-强推[这个网站](https://pkuflyingpig.github.io/pku-cs-self-learning/)  
+强推[这个网站](https://pkuflyingpig.github.io/cs-self-learning/)  
 
 码一下寒假想要自学的课：  
 
 ### MIT Missing Semester  
 
-CS自学指南的[链接](https://pkuflyingpig.github.io/pku-cs-self-learning/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/)
+CS自学指南的[链接](https://pkuflyingpig.github.io/cs-self-learning/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/MIT-Missing-Semester/)
 
 预计学习：10-20 小时
 
@@ -23,7 +23,7 @@ CS自学指南的[链接](https://pkuflyingpig.github.io/pku-cs-self-learning/%E
 
 ### UCB CS70 Discrete Math and Probability Theory
 
-CS自学指南的[链接](https://pkuflyingpig.github.io/pku-cs-self-learning/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS70/)  
+CS自学指南的[链接](https://pkuflyingpig.github.io/cs-self-learning/%E6%95%B0%E5%AD%A6%E8%BF%9B%E9%98%B6/CS70/)  
 
 预计学习：60小时  
 
@@ -31,5 +31,5 @@ CS自学指南的[链接](https://pkuflyingpig.github.io/pku-cs-self-learning/%E
 
 ### UCB CS61A Structure and Interpretation of Computer Programs
 
-CS自学指南的[链接](https://pkuflyingpig.github.io/pku-cs-self-learning/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS61A/)  
+CS自学指南的[链接](https://pkuflyingpig.github.io/cs-self-learning/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS61A/)  
 （也该好好学学Python了）
