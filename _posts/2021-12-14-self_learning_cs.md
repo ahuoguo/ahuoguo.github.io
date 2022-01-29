@@ -36,4 +36,4 @@ CS自学指南的[链接](https://pkuflyingpig.github.io/cs-self-learning/%E7%BC
 
 ### MIT  
 看切尔诺贝利的时候扒到的 有空就看吧！  
-东西都
+(东西都挺齐的)[https://ocw.mit.edu/courses/nuclear-engineering/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/index.htm]
