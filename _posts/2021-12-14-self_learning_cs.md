@@ -34,6 +34,6 @@ CS自学指南的[链接](https://pkuflyingpig.github.io/cs-self-learning/%E6%95
 CS自学指南的[链接](https://pkuflyingpig.github.io/cs-self-learning/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/CS61A/)  
 （也该好好学学Python了）
 
-### MIT  
+### MIT Introduction to Nuclear Engineering and Ionizing Radiation  
 看切尔诺贝利的时候扒到的 有空就看吧！  
-(东西都挺齐的)[https://ocw.mit.edu/courses/nuclear-engineering/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/index.htm]
+(东西都挺齐的)[https://ocw.mit.edu/courses/nuclear-engineering/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/index.htm]  
