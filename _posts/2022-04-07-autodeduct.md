@@ -11,6 +11,8 @@ tags: PL
 
 [George Necula](https://people.eecs.berkeley.edu/~necula/) 97年的博士论文 "Proof-carrying Code" （十年后还评为POPL最佳论文）算是dafny的开始了
 
+(Samit Gulwani 的博导是他 貌似关系巨好 博士论文全是感谢)
+
 teaching section下的课都可以看看 CS294头几节课和CS263他负责的部分都讲了讲axiomatic semantics 和 Nelson-Oppen method  值得一看
 
 下面几个课也有相关的话题
