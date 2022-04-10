@@ -11,7 +11,7 @@ tags: PL
 
 [George Necula](https://people.eecs.berkeley.edu/~necula/) 97年的博士论文 "Proof-carrying Code" （十年后还评为POPL最佳论文）算是dafny的开始了
 
-(Samit Gulwani 的博导是他 貌似关系巨好 博士论文全是感谢)
+(Samit Gulwani 的博导是他 貌似关系巨好 博士论文全是感谢 说什么导师像自己的哥哥一样 带他们划船。。。)
 
 teaching section下的课都可以看看 CS294头几节课和CS263他负责的部分都讲了讲axiomatic semantics 和 Nelson-Oppen method  值得一看
 
@@ -25,6 +25,8 @@ teaching section下的课都可以看看 CS294头几节课和CS263他负责的�
 by Işil Dilig (ş 念 sh) Alex Aiken 的学生
 
 [这本书](https://sat-smt.codes/)好像快速的介绍了一下SMT/SAT
+
+Z3的负责人 其中一个[Nikolaj Bjørner](http://theory.stanford.edu/~nikolaj/) 是 [Zohar Manna](https://en.wikipedia.org/wiki/Zohar_Manna). [Hezinger](https://en.wikipedia.org/wiki/Thomas_Henzinger)也是他的学生。
 
 ## 杂
 
