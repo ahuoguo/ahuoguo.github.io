@@ -20,9 +20,7 @@ teaching section下的课都可以看看 CS294头几节课和CS263他负责的�
 [CS626 Formal Methods @ U Cincinnati](http://gauss.ececs.uc.edu/Courses/c626/lectures.html)
 
 
-[CS389 Automated Logical Reasoning @ UT Austin](https://www.cs.utexas.edu/~isil/cs389L/)
-
-by Işil Dilig (ş 念 sh) Alex Aiken 的学生
+[CS389 Automated Logical Reasoning @ UT Austin](https://www.cs.utexas.edu/~isil/cs389L/) by Işil Dilig (ş 念 sh) Alex Aiken 的学生
 
 [这本书](https://sat-smt.codes/)好像快速的介绍了一下SMT/SAT
 
