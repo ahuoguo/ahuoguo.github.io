@@ -24,6 +24,8 @@ teaching section下的课都可以看看 CS294头几节课和CS263他负责的�
 
 by Işil Dilig (ş 念 sh) Alex Aiken 的学生
 
+[这本书](https://sat-smt.codes/)好像快速的介绍了一下SMT/SAT
+
 ## 杂
 
 PLDI19学POPL18弄的[采访](http://abstract.ece.cmu.edu/peopleOfPLDI/index.html) sigplan对此的[宣传](https://blog.sigplan.org/2020/04/23/more-people-of-programming-languages/)
