@@ -24,12 +24,16 @@ teaching section下的课都可以看看 CS294头几节课和CS263他负责的�
 
 [这本书](https://sat-smt.codes/)好像快速的介绍了一下SMT/SAT
 
-Z3的负责人 其中一个[Nikolaj Bjørner](http://theory.stanford.edu/~nikolaj/) 是 [Zohar Manna](https://en.wikipedia.org/wiki/Zohar_Manna). [Hezinger](https://en.wikipedia.org/wiki/Thomas_Henzinger)也是他的学生。
+南京大学 [formal semantics for programming languages](https://cs.nju.edu.cn/hongjin/teaching/semantics/index.htm) 梁红谨
+
 
 ## 杂
 
 PLDI19学POPL18弄的[采访](http://abstract.ece.cmu.edu/peopleOfPLDI/index.html) sigplan对此的[宣传](https://blog.sigplan.org/2020/04/23/more-people-of-programming-languages/)
 
 Alex Aiken（我导的导（？）） 最后几段说的太好了
+
+
+Z3的负责人 其中一个[Nikolaj Bjørner](http://theory.stanford.edu/~nikolaj/) 是 [Zohar Manna](https://en.wikipedia.org/wiki/Zohar_Manna). [Hezinger](https://en.wikipedia.org/wiki/Thomas_Henzinger)也是他的学生。
 
 
