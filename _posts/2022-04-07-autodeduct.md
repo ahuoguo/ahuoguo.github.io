@@ -26,6 +26,8 @@ teaching section下的课都可以看看 CS294头几节课和CS263他负责的�
 
 南京大学 [formal semantics for programming languages](https://cs.nju.edu.cn/hongjin/teaching/semantics/index.htm) 梁红谨
 
+[关于Z3](https://jelv.is/talks/compose-2016/)(Talk in Compose16)
+
 
 ## 杂
 
