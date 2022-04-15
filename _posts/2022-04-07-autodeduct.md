@@ -36,4 +36,6 @@ Alex Aiken（我导的导（？）） 最后几段说的太好了
 
 Z3的负责人 其中一个[Nikolaj Bjørner](http://theory.stanford.edu/~nikolaj/) 是 [Zohar Manna](https://en.wikipedia.org/wiki/Zohar_Manna). [Hezinger](https://en.wikipedia.org/wiki/Thomas_Henzinger)也是他的学生。
 
+[这个夏校](https://www.cs.uoregon.edu/research/summerschool/archives.html)有很多相关的内容
+
 
