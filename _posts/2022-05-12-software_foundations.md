@@ -7,6 +7,10 @@ JF叫我暑假看看这个 也该填这个坑了
 
 <!--more-->
 
+[书的网址](https://softwarefoundations.cis.upenn.edu/)
+
+不要点Index 貌似会卡死
+
 ### 相关课程
 
 [Upenn CIS500](https://www.seas.upenn.edu/~cis500/current/index.html#schedule) Pierce直接教的
