@@ -24,3 +24,7 @@ JF叫我暑假看看这个 也该填这个坑了
 [CSE505 UW Sp 2021](https://sites.google.com/cs.washington.edu/cse-505-spring-2021/home)
 
 [CSE505 UW 18au](https://sites.google.com/cs.washington.edu/cse-505-18au/home)
+
+### Notes
+
+比较值得讲的题： Binary Inverse, Church Numerals [P大的习题课讲过](https://xiongyingfei.github.io/SF/2022/slides/exercise-1.pdf)
