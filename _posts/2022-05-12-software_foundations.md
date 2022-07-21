@@ -42,7 +42,7 @@ Part 2: Propositions (and more induction)
 
 Logic, IndProp, ProofObjects, IndPrinciples
 
-其中IndProp是大chapter
+其中IndProp是大chapter （其实Logic最后一题也被我跳了）
 
 Part 3: Imp
 
