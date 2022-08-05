@@ -56,9 +56,11 @@ Maps, Imp, ImpCEvalFun, Auto
 
 Part 1: Verification (Hoare Logic)
 
+Equiv, Hoare, Hoare2, HoareAsLogic
 
 Part 2: Type System (STLC)
 
+Smallstep, Types, Stlc, StlcProp
 
 
 
