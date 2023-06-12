@@ -25,5 +25,4 @@ Berkeley的[PL课](https://inst.eecs.berkeley.edu/~cs164/fa22/schedule.html)
 
 与其说是PL 不如说是加了很多compiler内容的课
 
-
-
+Will Crichton 开了个比较新潮的[PL课](https://stanford-cs242.github.io/f19/) 主要有wasm和rust
