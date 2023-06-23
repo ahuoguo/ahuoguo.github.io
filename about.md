@@ -6,7 +6,7 @@ header: About
 key: page-about
 ---
 
-cs(philo?)(math?)学子 会不定期地bb一些话或者囤一些想看的东西。
+cs(philo?)(math?)学子 会不定期地写一些流水账或者囤一些想看的东西。
 
 ### Contact me
 
