@@ -1,9 +1,9 @@
 ---
-title: FP Materials
+title: PL Materials
 tags: PL
 ---
 
-## 用来囤函数式编程相关的材料
+## 用来囤PL相关的材料
 
 <!--more-->
 
@@ -37,6 +37,8 @@ Daniel Tubbenhauer的[课程网站](https://www.dtubbenhauer.com/lecture-ct-2022
 ### Program Analysis
 
 Veridise做了[亲民的intro](https://medium.com/veridise/a-gentle-introduction-to-program-verification-12a7618fb00d)
+
+xyf的[软分](https://xiongyingfei.github.io/SA_new/2023/) 甚至疫情那年有变成录好的[网课](https://liveclass.org.cn/cloudCourse/#/courseDetail/8mI06L2eRqk8GcsW)
 
 ### 杂
 
