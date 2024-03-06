@@ -32,7 +32,7 @@ Daniel Tubbenhauer的[课程网站](https://www.dtubbenhauer.com/lecture-ct-2022
 
 ### Automated Reasoning
 
-[ams的简介](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning)挺有帮助的
+[aws的简介](https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning)挺有帮助的
 
 ### Program Analysis
 
