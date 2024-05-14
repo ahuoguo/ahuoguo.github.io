@@ -29,6 +29,8 @@ teaching section下的课都可以看看 CS294头几节课和CS263他负责的�
 
 [关于Z3](https://jelv.is/talks/compose-2016/)(Talk in Compose16)
 
+ETHz的Programming Methodology Group也[有很多很好的课](https://www.pm.inf.ethz.ch/education/courses.html) 比如Alex Summers 2017 的Program Verification
+
 ## Why3
 
 一个很好的intro材料是Jean-Christophe Filliâtre的[habilitation](https://www.lri.fr/~filliatr/hdr/index.fr.html)  [Matt Fredrikson的课](https://www.cs.cmu.edu/~15414/s22/index.html)也有很全的作业
