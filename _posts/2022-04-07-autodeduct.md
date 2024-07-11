@@ -35,6 +35,12 @@ ETHz的Programming Methodology Group也[有很多很好的课](https://www.pm.in
 
 一个很好的intro材料是Jean-Christophe Filliâtre的[habilitation](https://www.lri.fr/~filliatr/hdr/index.fr.html)  [Matt Fredrikson的课](https://www.cs.cmu.edu/~15414/s22/index.html)也有很全的作业
 
+## Coq
+
+Derek Dreyer和众学生的[Semantics课](https://gitlab.mpi-sws.org/FP/semantics-course), Aarhus 也用相似的材料。这个课终于让我知道了怎么[用vscode](https://gitlab.mpi-sws.org/iris/iris/-/blob/master/docs/editor.md)写众多verification project里的unicode
+
+Gert Smolka的 [ICL](https://cms.sic.saarland/icl_23/)
+
 ## 杂
 
 PLDI19学POPL18弄的[采访](http://abstract.ece.cmu.edu/peopleOfPLDI/index.html) sigplan对此的[宣传](https://blog.sigplan.org/2020/04/23/more-people-of-programming-languages/)
