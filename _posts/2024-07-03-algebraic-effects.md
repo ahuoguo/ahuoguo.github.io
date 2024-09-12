@@ -29,9 +29,9 @@ Richer Type systems (Frank): [Do be do be do](https://dl.acm.org/doi/10.1145/300
 
 ### Recent papers
 
-WasmFX (typed continuation proposal for wasm's exception handling feature). [[Wasm Research Day 2023 talk]](https://youtu.be/gNb0M312Wds?si=kONvK1oyEtBPjdmX), the 2022 talk has no recording but there are [[slides and code]](https://www.cs.cmu.edu/~wasm/wasm-research-day-2022.html) [[OOPSLA 23 paper]](https://dl.acm.org/doi/10.1145/3622814)
+**WasmFX** (typed continuation proposal for wasm's exception handling feature). [[Wasm Research Day 2023 talk]](https://youtu.be/gNb0M312Wds?si=kONvK1oyEtBPjdmX), the 2022 talk has no recording but there are [[slides and code]](https://www.cs.cmu.edu/~wasm/wasm-research-day-2022.html) [[OOPSLA 23 paper]](https://dl.acm.org/doi/10.1145/3622814)
 
-Koka-lang [[PLDI24 paper]](https://dl.acm.org/doi/pdf/10.1145/3656398)
+**Koka-lang** [[PLDI24 paper]](https://dl.acm.org/doi/pdf/10.1145/3656398)
 
 
 (More to come...)
