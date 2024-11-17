@@ -15,7 +15,7 @@ tags: PL
 
 Daniel Tubbenhauer的[课程网站](https://www.dtubbenhauer.com/lecture-ct-2022.html)以及他对category theory历史的[课件](https://www.dtubbenhauer.com/cathistorisch-eng.pdf)
 
-（居然还跟emmy noether有关）
+上面这个人还有一个[youtube频道](https://www.youtube.com/@VisualMath/playlists)解释东西都挺清楚的（我是看他解释monad才懂的）
 
 [Snow Zhang](https://snowxueyinzhang.com/) 的 [课程网站](https://www.cs.princeton.edu/~mzweaver/courses/ct.html)
 
