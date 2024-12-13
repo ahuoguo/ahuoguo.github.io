@@ -33,7 +33,17 @@ Richer Type systems (Frank): [Do be do be do](https://dl.acm.org/doi/10.1145/300
 
 **Koka-lang** [[PLDI24 paper]](https://dl.acm.org/doi/pdf/10.1145/3656398)
 
+### Delimited Continuations
+
+Now in Scala/Haskell/OCaml
+
+Ken Shan did a lot of work on inter-defining control operators
+
+
+### Questions
+
+In *Effect Handlers via Generalised Continuations* (JFP 20), they claimed catamorphism <-> deep handlers, mutumorphisms <-> shallow handlers. How to interpret this? (Do I really know case-splits and folds?)
+
+How to think of `shift0/reset0` as closest to algebraic effect handlers? *On the Expressive Power of User-Defined Effects* seems to give a straightforward translation from `shift0/reset0` to effect handlers.
 
 (More to come...)
-
-
